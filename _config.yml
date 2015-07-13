@@ -6,7 +6,7 @@ rdiscount:
 gems:
   - jekyll-sitemap
 
-name: Zach Holman
-url: http://zachholman.com
-description: A fantastic blog that is fantastic.
-twitter: holman
+name: Albert Gonzalez
+url: http://siemplicity.github.io
+description: SIEMplify thru detection, correlation and data visualization.
+twitter: albgnz
